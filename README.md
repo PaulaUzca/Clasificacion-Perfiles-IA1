@@ -1,4 +1,4 @@
-# Clasificacion de perfiles IA1
+# Clasificación de perfiles IA1
 ![Banner proyecto](https://i.imgur.com/YzOt2N4.jpeg)
 
 Proyecto de inteligencia artificial I: Implementar un modelo de inteligencia artificial para clasificar perfiles falsos de instagram.
